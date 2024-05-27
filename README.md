@@ -26,7 +26,7 @@ The LinkedIn Profile Picture Changer is a Chrome extension that replaces all pro
    - You can customize this URL by modifying the `DEFAULT_PROFILE_PICTURE_FOR_ALL_USER` constant in the `content.js` file.
 
 ## Demo
-- ![Default Image](assets/default.png)
+- ![Default Image](assets/image.png)
 - [Watch the recording proof](assets/recordingproof.mp4)
 - ![Screenshot 1](assets/proof.png)
 - ![Screenshot 2](assets/proof2.png)
